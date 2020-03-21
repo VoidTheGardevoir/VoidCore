@@ -1,0 +1,20 @@
+{
+  "item.vcore.ruby": "Ruby",
+  "item.vcore.sapphire": "Sapphire",
+  "item.vcore.ruby_dust": "Ruby Dust",
+  "item.vcore.sapphire_dust": "Sapphire Dust",
+  "item.vcore.diamond_dust": "Diamond Dust",
+  "item.vcore.emerald_dust": "Emerald Dust",
+  "item.vcore.quartz_dust": "Quartz Dust",
+  
+  
+  
+  "block.vcore.ruby_block": "Block of Ruby",
+  "block.vcore.sapphire_block": "Block of Sapphire",
+  "block.vcore.ruby_ore": "Ruby Ore",
+  "block.vcore.sapphire_ore": "Sapphire Ore",
+  
+  
+  
+  "itemGroup.vcore": "Void Core"
+}
